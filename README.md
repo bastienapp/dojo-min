@@ -1,6 +1,6 @@
 # Min
 
-Ecrire une méthode nommée foundMin, qui retourne le minimum d’un tableau d’entier.
+Ecrire une méthode qui retourne le minimum d’un tableau d’entier.
 
 Rappel des commandes junit :
 
